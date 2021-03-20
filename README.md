@@ -1,1 +1,1 @@
-# socialnft
+# The Social NFT Project
